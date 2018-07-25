@@ -4,7 +4,6 @@
   "description": "Solutions for titleize exercise.",
   "main": "index.js",
   "scripts": {
-    "test-setup":"npm run test",
     "test": "mocha"
   },
   "author": "Peleke Sengstacke",
